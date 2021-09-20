@@ -1,0 +1,10 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/publish-android-library/[root]/index.html
+$dokka.location://javiersc-publish-android-library/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/publish-android-library/[root]/javiersc-publish-android-library.html
+$dokka.location://javiersc-publish-android-library/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/publish-android-library/[root]/javiersc-publish-android-library.html
+$dokka.location:/Com_javiersc_gradle_plugins_publish_android_libraryPlugin///PointingToDeclaration/publish-android-library/[root]/-com_javiersc_gradle_plugins_publish_android_library-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_publish_android_libraryPlugin/Com_javiersc_gradle_plugins_publish_android_libraryPlugin/#/PointingToDeclaration/publish-android-library/[root]/-com_javiersc_gradle_plugins_publish_android_library-plugin/-com_javiersc_gradle_plugins_publish_android_library-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_publish_android_libraryPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/publish-android-library/[root]/-com_javiersc_gradle_plugins_publish_android_library-plugin/apply.html
+
+

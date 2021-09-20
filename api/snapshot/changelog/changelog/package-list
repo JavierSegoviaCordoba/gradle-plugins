@@ -1,0 +1,10 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/changelog/[root]/index.html
+$dokka.location://javiersc-changelog/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/changelog/[root]/javiersc-changelog.html
+$dokka.location://javiersc-changelog/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/changelog/[root]/javiersc-changelog.html
+$dokka.location:/Com_javiersc_gradle_plugins_changelogPlugin///PointingToDeclaration/changelog/[root]/-com_javiersc_gradle_plugins_changelog-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_changelogPlugin/Com_javiersc_gradle_plugins_changelogPlugin/#/PointingToDeclaration/changelog/[root]/-com_javiersc_gradle_plugins_changelog-plugin/-com_javiersc_gradle_plugins_changelog-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_changelogPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/changelog/[root]/-com_javiersc_gradle_plugins_changelog-plugin/apply.html
+
+

@@ -1,0 +1,10 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/code-formatter/[root]/index.html
+$dokka.location://javiersc-code-formatter/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/code-formatter/[root]/javiersc-code-formatter.html
+$dokka.location://javiersc-code-formatter/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/code-formatter/[root]/javiersc-code-formatter.html
+$dokka.location:/Com_javiersc_gradle_plugins_code_formatterPlugin///PointingToDeclaration/code-formatter/[root]/-com_javiersc_gradle_plugins_code_formatter-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_code_formatterPlugin/Com_javiersc_gradle_plugins_code_formatterPlugin/#/PointingToDeclaration/code-formatter/[root]/-com_javiersc_gradle_plugins_code_formatter-plugin/-com_javiersc_gradle_plugins_code_formatter-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_code_formatterPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/code-formatter/[root]/-com_javiersc_gradle_plugins_code_formatter-plugin/apply.html
+
+

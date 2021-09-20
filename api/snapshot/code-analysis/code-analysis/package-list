@@ -1,0 +1,10 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/code-analysis/[root]/index.html
+$dokka.location://javiersc-code-analysis/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/code-analysis/[root]/javiersc-code-analysis.html
+$dokka.location://javiersc-code-analysis/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/code-analysis/[root]/javiersc-code-analysis.html
+$dokka.location:/Com_javiersc_gradle_plugins_code_analysisPlugin///PointingToDeclaration/code-analysis/[root]/-com_javiersc_gradle_plugins_code_analysis-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_code_analysisPlugin/Com_javiersc_gradle_plugins_code_analysisPlugin/#/PointingToDeclaration/code-analysis/[root]/-com_javiersc_gradle_plugins_code_analysis-plugin/-com_javiersc_gradle_plugins_code_analysis-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_code_analysisPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/code-analysis/[root]/-com_javiersc_gradle_plugins_code_analysis-plugin/apply.html
+
+

@@ -1,0 +1,7 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.javiersc.plugins.core////PointingToDeclaration/core/com.javiersc.plugins.core/index.html
+$dokka.location:com.javiersc.plugins.core//groupId/org.gradle.api.Project#/PointingToDeclaration/core/com.javiersc.plugins.core/group-id.html
+$dokka.location:com.javiersc.plugins.core//isSignificant/org.gradle.api.Project#/PointingToDeclaration/core/com.javiersc.plugins.core/is-significant.html
+com.javiersc.plugins.core
+

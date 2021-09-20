@@ -1,0 +1,10 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/publish-kotlin-multiplatform/[root]/index.html
+$dokka.location://javiersc-publish-kotlin-multiplatform/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/publish-kotlin-multiplatform/[root]/javiersc-publish-kotlin-multiplatform.html
+$dokka.location://javiersc-publish-kotlin-multiplatform/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/publish-kotlin-multiplatform/[root]/javiersc-publish-kotlin-multiplatform.html
+$dokka.location:/Com_javiersc_gradle_plugins_publish_kotlin_multiplatformPlugin///PointingToDeclaration/publish-kotlin-multiplatform/[root]/-com_javiersc_gradle_plugins_publish_kotlin_multiplatform-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_publish_kotlin_multiplatformPlugin/Com_javiersc_gradle_plugins_publish_kotlin_multiplatformPlugin/#/PointingToDeclaration/publish-kotlin-multiplatform/[root]/-com_javiersc_gradle_plugins_publish_kotlin_multiplatform-plugin/-com_javiersc_gradle_plugins_publish_kotlin_multiplatform-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_publish_kotlin_multiplatformPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/publish-kotlin-multiplatform/[root]/-com_javiersc_gradle_plugins_publish_kotlin_multiplatform-plugin/apply.html
+
+

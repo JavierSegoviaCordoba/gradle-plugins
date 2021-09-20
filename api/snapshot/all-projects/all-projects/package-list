@@ -1,0 +1,10 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/all-projects/[root]/index.html
+$dokka.location://javiersc-all-projects/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/all-projects/[root]/javiersc-all-projects.html
+$dokka.location://javiersc-all-projects/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/all-projects/[root]/javiersc-all-projects.html
+$dokka.location:/Com_javiersc_gradle_plugins_all_projectsPlugin///PointingToDeclaration/all-projects/[root]/-com_javiersc_gradle_plugins_all_projects-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_all_projectsPlugin/Com_javiersc_gradle_plugins_all_projectsPlugin/#/PointingToDeclaration/all-projects/[root]/-com_javiersc_gradle_plugins_all_projects-plugin/-com_javiersc_gradle_plugins_all_projects-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_all_projectsPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/all-projects/[root]/-com_javiersc_gradle_plugins_all_projects-plugin/apply.html
+
+

@@ -1,0 +1,11 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/kotlin-multiplatform/[root]/index.html
+$dokka.location://defaultLanguageSettings/org.jetbrains.kotlin.gradle.plugin.KotlinSourceSet#/PointingToDeclaration/kotlin-multiplatform/[root]/default-language-settings.html
+$dokka.location://javiersc-kotlin-multiplatform/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/kotlin-multiplatform/[root]/javiersc-kotlin-multiplatform.html
+$dokka.location://javiersc-kotlin-multiplatform/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/kotlin-multiplatform/[root]/javiersc-kotlin-multiplatform.html
+$dokka.location:/Com_javiersc_gradle_plugins_kotlin_multiplatformPlugin///PointingToDeclaration/kotlin-multiplatform/[root]/-com_javiersc_gradle_plugins_kotlin_multiplatform-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_kotlin_multiplatformPlugin/Com_javiersc_gradle_plugins_kotlin_multiplatformPlugin/#/PointingToDeclaration/kotlin-multiplatform/[root]/-com_javiersc_gradle_plugins_kotlin_multiplatform-plugin/-com_javiersc_gradle_plugins_kotlin_multiplatform-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_kotlin_multiplatformPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/kotlin-multiplatform/[root]/-com_javiersc_gradle_plugins_kotlin_multiplatform-plugin/apply.html
+
+

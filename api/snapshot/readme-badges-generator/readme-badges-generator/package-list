@@ -1,0 +1,10 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/readme-badges-generator/[root]/index.html
+$dokka.location://javiersc-readme-badges-generator/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/readme-badges-generator/[root]/javiersc-readme-badges-generator.html
+$dokka.location://javiersc-readme-badges-generator/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/readme-badges-generator/[root]/javiersc-readme-badges-generator.html
+$dokka.location:/Com_javiersc_gradle_plugins_readme_badges_generatorPlugin///PointingToDeclaration/readme-badges-generator/[root]/-com_javiersc_gradle_plugins_readme_badges_generator-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_readme_badges_generatorPlugin/Com_javiersc_gradle_plugins_readme_badges_generatorPlugin/#/PointingToDeclaration/readme-badges-generator/[root]/-com_javiersc_gradle_plugins_readme_badges_generator-plugin/-com_javiersc_gradle_plugins_readme_badges_generator-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_readme_badges_generatorPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/readme-badges-generator/[root]/-com_javiersc_gradle_plugins_readme_badges_generator-plugin/apply.html
+
+

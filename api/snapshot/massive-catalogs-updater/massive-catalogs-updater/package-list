@@ -1,0 +1,10 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/massive-catalogs-updater/[root]/index.html
+$dokka.location://javiersc-massive-catalogs-updater/org.gradle.plugin.use.PluginDependenciesSpec#/PointingToDeclaration/massive-catalogs-updater/[root]/javiersc-massive-catalogs-updater.html
+$dokka.location://javiersc-massive-catalogs-updater/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String/PointingToDeclaration/massive-catalogs-updater/[root]/javiersc-massive-catalogs-updater.html
+$dokka.location:/Com_javiersc_gradle_plugins_massive_catalogs_updaterPlugin///PointingToDeclaration/massive-catalogs-updater/[root]/-com_javiersc_gradle_plugins_massive_catalogs_updater-plugin/index.html
+$dokka.location:/Com_javiersc_gradle_plugins_massive_catalogs_updaterPlugin/Com_javiersc_gradle_plugins_massive_catalogs_updaterPlugin/#/PointingToDeclaration/massive-catalogs-updater/[root]/-com_javiersc_gradle_plugins_massive_catalogs_updater-plugin/-com_javiersc_gradle_plugins_massive_catalogs_updater-plugin.html
+$dokka.location:/Com_javiersc_gradle_plugins_massive_catalogs_updaterPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/massive-catalogs-updater/[root]/-com_javiersc_gradle_plugins_massive_catalogs_updater-plugin/apply.html
+
+

@@ -1,0 +1,6 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/accessors/[root]/index.html
+$dokka.location://javiersc/org.gradle.plugin.use.PluginDependenciesSpec#kotlin.String#kotlin.String?/PointingToDeclaration/accessors/[root]/javiersc.html
+
+
